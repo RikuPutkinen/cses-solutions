@@ -1,4 +1,4 @@
-# CSES
+# CSES Solutions
 
 My solutions to the problems in CSES Problem Set.
 
